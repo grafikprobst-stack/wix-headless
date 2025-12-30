@@ -1,0 +1,20 @@
+{
+  "name": "wix-headless-shop",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.1.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "@wix/sdk": "^1.20.0",
+    "@wix/stores": "^1.0.605",
+    "@wix/ecom": "^1.0.1556",
+    "@wix/redirects": "^1.0.106"
+  }
+}
