@@ -1,6 +1,6 @@
 // app/layout.js
 import Navbar from '../components/Navbar'; // <--- 1. Importieren
-import './globals.css'; // (Falls du eine CSS Datei hast, sonst diese Zeile weglassen)
+// import './globals.css'; // (Falls du eine CSS Datei hast, sonst diese Zeile weglassen)
 
 export const metadata = {
   title: 'Mein Wix Headless Shop',
